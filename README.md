@@ -18,3 +18,10 @@ The dataset used is "Default of Credit Card Clients" from the UCI Machine Learni
 - **default payment next month**: Target variable (1 = default, 0 = non-default)
 
 ## Project Structure
+
+credit-card-default-prediction/
+├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks
+├── src/ # Source code
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
