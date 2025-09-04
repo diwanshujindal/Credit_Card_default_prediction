@@ -21,7 +21,14 @@ The dataset used is "Default of Credit Card Clients" from the UCI Machine Learni
 
 credit-card-default-prediction/
 ├── data/ # Dataset files
+│   ├── default of credit card clients.xls # Original dataset (not tracked in git)
+│   └── .gitkeep # Empty file to maintain folder structure
 ├── notebooks/ # Jupyter notebooks
+│   └── group_project.ipynb # Main analysis notebook
 ├── src/ # Source code
+│   ├── __init__.py # Package initialization
+│   ├── data_preprocessing.py # Data loading and preprocessing functions
+│   ├── eda.py # Exploratory data analysis functions
+│   └── modeling.py # Model training and evaluation functions
 ├── requirements.txt # Python dependencies
-└── README.md # Project documentation
+└── README.md # Project documentation (this file)
