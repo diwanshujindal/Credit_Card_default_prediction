@@ -24,13 +24,11 @@ credit-card-default-prediction/
 
 │   ├── default of credit card clients.xls # Original dataset.
 
-│   └── .gitkeep # Empty file to maintain folder structure
-
 ├── notebooks/ # Jupyter notebooks
 
-│   └── group_project.ipynb # Main analysis notebook
+│   └── Credit_card_default_prediction.ipynb # Main analysis notebook
 
-├── src/ # Source code
+├── src
 
 │   ├── __init__.py # Package initialization
 
